@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that predicts which telecom customers are likely to churn, built to prioritize **catching at-risk customers over avoiding false alarms** — a deliberate choice based on the asymmetric cost of the two mistakes in a retention context.
 
-🔗 **[[Live demo](https://telecom-churn-prediction-qczu8qtlzducubhenahudh.streamlit.app/)](#)** *(add your Streamlit Cloud link here after deploying)*
+🔗 **[[Live demo](https://telecom-churn-prediction-qczu8qtlzducubhenahudh.streamlit.app/)](#)** 
 
 ---
 
